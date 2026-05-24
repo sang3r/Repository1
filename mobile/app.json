@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "SecureChat",
+    "slug": "secure-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" } }
+  }
+}
